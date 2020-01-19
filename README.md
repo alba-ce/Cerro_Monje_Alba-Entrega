@@ -66,7 +66,7 @@ Contiene las siguientes funciones:
 
 PROSITE.PY
 
-Requiere los módulos os, Biopython y re. 
+Requiere los módulos os, Biopython y re. También requiere los archivos prosite.dat y prosite.doc en el directorio del programa principal.
 
 Contiene las siguientes funciones: 
 
